@@ -38,8 +38,14 @@ npm i inquirer
 Mock-Up
 ---------------
 
+### Terminal Mock-Up
 
+![Terminal Mock-Up](./Develop/images/Terminal-MockUp.JPG)
 
+### README Mock-Up
 
+![README Mock-Up1](./Develop/images/Readme-MockUp_1.JPG)
+
+![README Mock-Up2](./Develop/images/Readme-MockUp_2.JPG)
 
 To see a demonstrative video on how to use the tool, click on the following link:
