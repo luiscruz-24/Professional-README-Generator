@@ -16,7 +16,7 @@ const questions = [
         name: 'description',
     },
     {
-        default: 'npm i',
+        default: 'npm i inquirer',
         message: 'The command to begin the installation',
         name: 'installation',
     },
