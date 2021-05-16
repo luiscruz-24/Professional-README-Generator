@@ -48,4 +48,4 @@ Mock-Up
 
 ![README Mock-Up2](./Develop/images/Readme-MockUp_2.JPG)
 
-To see a demonstrative video on how to use the tool, click on the following link:
+To see a demonstrative video on how to use the tool, click on the following link: https://drive.google.com/file/d/1fvw3RMgy19WScU890BkDVrdVxEni3v9A/view?usp=sharing
